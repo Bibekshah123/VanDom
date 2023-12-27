@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+}
+
+.logo{
+    position: absolute;
+    top: 0%;
+    left: 1%;
+    width: 10%;
+    height: 20%;
+
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.signin{
+    font-size: 35px;
+    margin-left: 90%;
+    
+}
+
+
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 35px;
+}
+
+
+main {
+    padding: 20px;
+}
+
+.vending-machine {
+    text-align: center;
+}
+
+
+.vending-machine img {
+    max-width: 15%;
+    height: auto;
+}
+
+.vending-machine h2 {
+    font-size: 24px;
+}
+
+.purchase-button {
+    background-color: #007BFF;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.purchase-button:hover {
+    background-color: #0056b3;
+}
+
+.about h2 {
+    font-size: 30px;
+}
+
+.about p {
+    font-size: 20px;
+}
+
+/* footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+} */
